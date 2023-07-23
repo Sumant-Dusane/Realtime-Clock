@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    color: lime;
+}
+
+.time {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
